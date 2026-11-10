@@ -30,7 +30,7 @@ flowchart LR
 
 | Project | What it demonstrates | Status |
 | --- | --- | --- |
-| **Sokoban** | A retro C++ puzzle game with three levels, undo, move tracking, and a custom SDL2/OpenGL renderer. | [View source](https://github.com/kiikbye/-computer-grafica/blob/main/%D1%81%D1%80%D1%81%208/sokoban_gl.cpp) |
+| **Sokoban** | A retro C++ puzzle game with three levels, undo, move tracking, and a custom SDL2/OpenGL renderer. | [View repository](https://github.com/kiikbye/sokoban) |
 | **ResilientQ** | A Redis-backed job queue with a FastAPI service, expiring job leases, retries, and a worker failure experiment. | Local prototype |
 | **Shift Planner** | A mobile calendar prototype for a repeating day, night, and rest schedule. | Prototype |
 | **Room Plant Classifier** | A Jupyter notebook comparing a custom CNN with MobileNetV2 transfer learning for image classification. | Coursework notebook |
