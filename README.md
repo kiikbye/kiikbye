@@ -30,7 +30,7 @@ flowchart LR
 
 | Project | What it demonstrates | Status |
 | --- | --- | --- |
-| **Dispatch Map** | An interactive delivery simulator on real Almaty streets. Reassigns orders after a courier drops out and compares deadline-aware routing with a nearest-courier baseline. | [View repository](https://github.com/kiikbye/dispatch-map) |
+| **Dispatch Map** | An interactive delivery simulator on real Almaty streets. Reassigns orders after a courier drops out and compares deadline-aware routing with a nearest-courier baseline. | [View repository](https://github.com/kiikbye/dispatch-map) · [Results](https://github.com/kiikbye/dispatch-map/blob/main/REPORT.md) |
 | **Sokoban** | A retro C++ puzzle game with three levels, undo, move tracking, and a custom SDL2/OpenGL renderer. | [View repository](https://github.com/kiikbye/sokoban) |
 | **Kazakh–Russian LLM Evaluation** | A reproducible Python benchmark for software issue routing. Compared zero-shot and few-shot prompts on 30 held-out issues and published raw model responses and per-language scores. | [View repository](https://github.com/kiikbye/kk-ru-llm-eval) · [Results](https://github.com/kiikbye/kk-ru-llm-eval/blob/main/results/report.md) |
 | **ResilientQ** | A Redis-backed job queue with a FastAPI service, expiring job leases, retries, and a worker failure experiment. | Local prototype |
