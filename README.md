@@ -31,6 +31,7 @@ flowchart LR
 | Project | What it demonstrates | Status |
 | --- | --- | --- |
 | **Sokoban** | A retro C++ puzzle game with three levels, undo, move tracking, and a custom SDL2/OpenGL renderer. | [View repository](https://github.com/kiikbye/sokoban) |
+| **Kazakh–Russian LLM Evaluation** | A reproducible Python benchmark for software issue routing. Compared zero-shot and few-shot prompts on 30 held-out issues and published raw model responses and per-language scores. | [View repository](https://github.com/kiikbye/kk-ru-llm-eval) · [Results](https://github.com/kiikbye/kk-ru-llm-eval/blob/main/results/report.md) |
 | **ResilientQ** | A Redis-backed job queue with a FastAPI service, expiring job leases, retries, and a worker failure experiment. | Local prototype |
 | **Shift Planner** | A mobile calendar prototype for a repeating day, night, and rest schedule. | Prototype |
 | **Room Plant Classifier** | A Jupyter notebook comparing a custom CNN with MobileNetV2 transfer learning for image classification. | Coursework notebook |
