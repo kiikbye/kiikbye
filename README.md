@@ -5,9 +5,9 @@
 
 ## Featured Project
 
-### TaskFlow · Distributed Job Processing
+### [TaskFlow · Distributed Job Processing](https://github.com/kiikbye/taskflow)
 
-**Work in progress · Local build**
+**Published prototype** · [Dashboard screenshot](https://github.com/kiikbye/taskflow/blob/main/evidence/parallel-dashboard.png)
 
 TaskFlow splits a batch into independent jobs and distributes them to Celery workers. The dashboard shows which worker handled each job, how long it took, and whether it needed a retry. If a worker stops mid-job, the dispatcher can requeue the unfinished work after its execution window expires.
 
@@ -30,11 +30,10 @@ flowchart LR
 
 | Project | What it demonstrates | Status |
 | --- | --- | --- |
+| **Sokoban** | A retro C++ puzzle game with three levels, undo, move tracking, and a custom SDL2/OpenGL renderer. | [View source](https://github.com/kiikbye/-computer-grafica/blob/main/%D1%81%D1%80%D1%81%208/sokoban_gl.cpp) |
 | **ResilientQ** | A Redis-backed job queue with a FastAPI service, expiring job leases, retries, and a worker failure experiment. | Local prototype |
-| **Personal Life OS** | A Kazakh-language React PWA for journaling, tasks, and personal finances, backed by Django REST Framework. | Local MVP |
 | **Shift Planner** | A mobile calendar prototype for a repeating day, night, and rest schedule. | Prototype |
 | **Room Plant Classifier** | A Jupyter notebook comparing a custom CNN with MobileNetV2 transfer learning for image classification. | Coursework notebook |
-| **Sokoban** | A C++ warehouse puzzle game with multiple levels, move tracking, and SDL2/OpenGL rendering. | [View source](https://github.com/kiikbye/-computer-grafica/blob/main/%D1%81%D1%80%D1%81%208/sokoban_gl.cpp) |
 | **Computer Graphics Labs** | C++17 and OpenGL exercises covering shaders, indexed drawing, 3D transforms, and a free camera. | [View repository](https://github.com/kiikbye/-computer-grafica) |
 
 ## About Me
